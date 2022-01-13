@@ -1,0 +1,12 @@
+hello there lets learn how to do phishing attack through kali 
+cd Desktop
+git clone https://github.com/htr-tech/zphisher.git
+cd zphisher
+ls
+chmod +x zphisher.sh
+bash zphisher.sh
+select the account number from the given list
+select the meathod through which you wanna exploit person 
+the select option-3 at the end 
+wait for the link 
+once the link arrives send it to person 
